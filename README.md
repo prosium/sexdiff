@@ -24,16 +24,10 @@ Raw data are retrieved 25 tumor type data from [cBioPortal](https://www.cbioport
 |3-2|SFig1B|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S1B_Analysis.py)|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S1B_Plot.R)
 |3-3|SFig1C|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S1C_Analysis.py)|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S1C_Plot.R)
 |3-4|SFig1E|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S1E_Analysis.py)|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S1E_Plot.R)
-
-
 |3-5|SFig1F|NA|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S1F_Plot.R)
-|3-1|SFig1A|[CODE]()|[CODE]()
-|3-1|SFig1A|[CODE]()|[CODE]()
-|3-1|SFig1A|[CODE]()|[CODE]()
-|3-1|SFig1A|[CODE]()|[CODE]()
-|3-1|SFig1A|[CODE]()|[CODE]()
-
-
+|3-6|SFig2A|NA|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S2A_Plot.R)
+|3-7|SFig2B|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S2B.R)|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S2B.R)
+|3-8|SFig3|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S3_Analysis.py)|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S3_Plot.R)
 
 
 
