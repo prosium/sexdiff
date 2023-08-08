@@ -61,9 +61,3 @@ Detailed URLs are below.
 |3-6|SFig2A|NA|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S2A_Plot.R)
 |3-7|SFig2B|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S2B.R)|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S2B.R)
 |3-8|SFig3|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S3_Analysis.py)|[CODE](https://github.com/prosium/sexdiff/blob/main/Figure/Figure_S3_Plot.R)
-
-
-
-
-
-[STAD]()
