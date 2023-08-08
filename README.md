@@ -1,7 +1,38 @@
 # sexdiff
 
 ## 1. Raw data Retrieval
-Raw data are retrieved 25 tumor type data from [cBioPortal](https://www.cbioportal.org/study/summary?id=laml_tcga_pan_can_atlas_2018%2Cacc_tcga_pan_can_atlas_2018%2Cblca_tcga_pan_can_atlas_2018%2Clgg_tcga_pan_can_atlas_2018%2Cchol_tcga_pan_can_atlas_2018%2Ccoadread_tcga_pan_can_atlas_2018%2Cdlbc_tcga_pan_can_atlas_2018%2Cesca_tcga_pan_can_atlas_2018%2Cgbm_tcga_pan_can_atlas_2018%2Chnsc_tcga_pan_can_atlas_2018%2Ckich_tcga_pan_can_atlas_2018%2Ckirc_tcga_pan_can_atlas_2018%2Ckirp_tcga_pan_can_atlas_2018%2Clihc_tcga_pan_can_atlas_2018%2Cluad_tcga_pan_can_atlas_2018%2Clusc_tcga_pan_can_atlas_2018%2Cmeso_tcga_pan_can_atlas_2018%2Cpaad_tcga_pan_can_atlas_2018%2Cpcpg_tcga_pan_can_atlas_2018%2Csarc_tcga_pan_can_atlas_2018%2Cskcm_tcga_pan_can_atlas_2018%2Cstad_tcga_pan_can_atlas_2018%2Cthym_tcga_pan_can_atlas_2018%2Cthca_tcga_pan_can_atlas_2018%2Cuvm_tcga_pan_can_atlas_2018)
+Raw data are retrieved 25 tumor type data from [cBioPortal](https://www.cbioportal.org/).
+Detailed URLs are below.
+
+
+|DatasetID|URL|
+|------|---|
+|ACC|https://cbioportal-datahub.s3.amazonaws.com/acc_tcga_pan_can_atlas_2018.tar.gz|
+|BLCA|https://cbioportal-datahub.s3.amazonaws.com/blca_tcga_pan_can_atlas_2018.tar.gz|
+|CHOL|https://cbioportal-datahub.s3.amazonaws.com/chol_tcga_pan_can_atlas_2018.tar.gz|
+|COADREAD|https://cbioportal-datahub.s3.amazonaws.com/coadread_tcga_pan_can_atlas_2018.tar.gz|
+|DLBC|https://cbioportal-datahub.s3.amazonaws.com/dlbc_tcga_pan_can_atlas_2018.tar.gz|
+|ESCA|https://cbioportal-datahub.s3.amazonaws.com/esca_tcga_pan_can_atlas_2018.tar.gz|
+|GBM|https://cbioportal-datahub.s3.amazonaws.com/gbm_tcga_pan_can_atlas_2018.tar.gz|
+|HNSC|https://cbioportal-datahub.s3.amazonaws.com/hnsc_tcga_pan_can_atlas_2018.tar.gz|
+|KICH|https://cbioportal-datahub.s3.amazonaws.com/kich_tcga_pan_can_atlas_2018.tar.gz|
+|KIRC|https://cbioportal-datahub.s3.amazonaws.com/kirc_tcga_pan_can_atlas_2018.tar.gz|
+|KIRP|https://cbioportal-datahub.s3.amazonaws.com/kirp_tcga_pan_can_atlas_2018.tar.gz|
+|LAML|https://cbioportal-datahub.s3.amazonaws.com/laml_tcga_pan_can_atlas_2018.tar.gz|
+|LGG|https://cbioportal-datahub.s3.amazonaws.com/lgg_tcga_pan_can_atlas_2018.tar.gz|
+|LIHC|https://cbioportal-datahub.s3.amazonaws.com/lihc_tcga_pan_can_atlas_2018.tar.gz|
+|LUAD|https://cbioportal-datahub.s3.amazonaws.com/luad_tcga_pan_can_atlas_2018.tar.gz|
+|LUSC|https://cbioportal-datahub.s3.amazonaws.com/lusc_tcga_pan_can_atlas_2018.tar.gz|
+|MESO|https://cbioportal-datahub.s3.amazonaws.com/meso_tcga_pan_can_atlas_2018.tar.gz|
+|PAAD|https://cbioportal-datahub.s3.amazonaws.com/paad_tcga_pan_can_atlas_2018.tar.gz|
+|PCPG|https://cbioportal-datahub.s3.amazonaws.com/pcpg_tcga_pan_can_atlas_2018.tar.gz|
+|SARC|https://cbioportal-datahub.s3.amazonaws.com/sarc_tcga_pan_can_atlas_2018.tar.gz|
+|SKCM|https://cbioportal-datahub.s3.amazonaws.com/skcm_tcga_pan_can_atlas_2018.tar.gz|
+|STAD|https://cbioportal-datahub.s3.amazonaws.com/stad_tcga_pan_can_atlas_2018.tar.gz|
+|THCA|https://cbioportal-datahub.s3.amazonaws.com/thca_tcga_pan_can_atlas_2018.tar.gz|
+|THYM|https://cbioportal-datahub.s3.amazonaws.com/thym_tcga_pan_can_atlas_2018.tar.gz|
+|UVM|https://cbioportal-datahub.s3.amazonaws.com/uvm_tcga_pan_can_atlas_2018.tar.gz|
+
 
 
 ## Figures
@@ -34,3 +65,5 @@ Raw data are retrieved 25 tumor type data from [cBioPortal](https://www.cbioport
 
 
 
+
+[STAD]()
