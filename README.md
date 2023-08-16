@@ -1,8 +1,10 @@
 # sexdiff
 
 ## 1. Raw data Retrieval
-Raw data are retrieved 25 tumor type data from [cBioPortal](https://www.cbioportal.org/).
-Detailed URLs are below.
+Raw data are retrieved 25 tumor type data from [cBioPortal](https://www.cbioportal.org/), urls are below.
+Processed data are Figshare (https://doi.org/10.6084/m9.figshare.23961336.v1) or
+    provided as supplementary table (PMID: XXXXXXXX)
+
 
 
 |DatasetID|URL|
